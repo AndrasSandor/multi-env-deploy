@@ -1,5 +1,0 @@
-vault.key
-filter_plugins/*.pyc
-lookup_plugins/*.pyc
-*.retry
-cred*.sh
